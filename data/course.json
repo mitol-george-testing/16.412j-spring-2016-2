@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0ecf7f42-b98b-e242-843d-b33054063aa5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Cognitive Robotics",
+  "course_description": "This is a class about applying autonomy to real-world systems. The overarching theme uniting the many different topics in this course will center around programming a cognitive robotic. This class takes the approach of introducing new reasoning techniques and ideas incrementally. We start with the current paradigm of programming you're likely familiar with, and evolve it over the semester\u2014continually adding in new features and reasoning capabilities\u2014ending with a robust, intelligent system. These techniques and topics will include algorithms for allowing a robot to: Monitor itself for potential problems (both observable and hidden), scheduling tasks in time, coming up with novel plans to achieve desired goals over time, dealing with the continuous world, collaborating with other (autonomous) agents, dealing with risk, and more.\n",
+  "department_numbers": [
+    "16",
+    "6"
+  ],
+  "extra_course_numbers": "6.834J",
+  "primary_course_number": "16.412J",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Programming Assignments",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
